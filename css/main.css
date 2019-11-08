@@ -1,1 +1,10 @@
-/* CSS Main */
+.text-center {
+  text-align: center;
+
+a {
+  color: #76a500;
+}
+
+a:hover {
+  color: #acc300;
+}
